@@ -1,11 +1,11 @@
-# ╦ё╢СхкиЗнд╣╣╡ж©Б
+# Г╕▐Е╓╖Д╨╨Г■÷Ф√┤Ф║ёД╩⌠Е╨⌠
 
-оНд©нд╣╣ё╛оНд©вйт╢ё╛х╚╤╪тзуБюО
+И║╧Г⌡╝Ф√┤Ф║ёО╪▄И║╧Г⌡╝Х╣└Ф╨░О╪▄Е┘╗И┐╫Е°╗Х©≥И┤▄
 
 -----
 
-[Alpha Sprint Blogs](./Alpha Sprint Blogs): ╧ьсз╠╬╢нAlphaЁЕ╢л╡╘©м╣днд╪Ч╪п
+[Alpha Sprint Blogs](./Alpha Sprint Blogs):Е┘ЁД╨▌Ф°╛Ф╛║AlphaЕ├╡Е┬╨Е█ Е╝╒Г └Ф√┤Д╩╤Е╓╧
 
-[BackEnd Doc](./BackEnd Doc)ё╨╨С╤кнд╣╣нд╪Ч╪п
+[BackEnd Doc](./BackEnd Doc):Е░▌Г╚╞Ф√┤Ф║ёФ√┤Д╩╤Е╓╧
 
-[Content](./Content):сно╥дзхщнд╣╣нд╪Ч╪п
+[Content](./Content):Ф╦╦Ф┬▐Е├┘Е╝╧Ф√┤Ф║ёФ√┤Д╩╤Е╓╧
