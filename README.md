@@ -4,9 +4,9 @@
 
 -----
 
-[Alpha Sprint Blogs](./Alpha%20Sprint%20Blogs/):关于本次Alpha冲刺博客的文件夹
+[Alpha Sprint Blogs](./AlphaSprintBlogs/):关于本次Alpha冲刺博客的文件夹
 
-[BackEnd Doc](./BackEnd%20Doc/):后端文档文件夹
+[BackEnd Doc](./BackEndDoc/):后端文档文件夹
 
 [Content](./Content):游戏内容文档文件夹
 
